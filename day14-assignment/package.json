@@ -1,0 +1,21 @@
+{
+  "name": "day14-assignment",
+  "version": "1.0.0",
+  "description": "Day 14 Node.js Backend Basics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node server.js",
+    "async": "node asyncTester.js",
+    "notes": "node noteSaver.js",
+    "sys": "node sysInfo.js"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "http",
+    "async"
+  ],
+  "author": "Rupa Reddy Kunam",
+  "license": "ISC"
+}
